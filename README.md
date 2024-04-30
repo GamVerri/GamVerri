@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas vindas 👨‍🏫
 
-<!--
-**GamVerri/GamVerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Verri
 
-Here are some ideas to get you started:
+- Sou professor de inglês, física, geometria e tecnologia.
+- Estou me desenvolvendo na linguagem do JavaScript.
+- Aqui vou compartilhar os projetos desenvolvidos durante o curso de programação da [Alura](www.alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Qualquer coisa, só entrar em contato. Abraços 🤲
+
+gabrielmverri@gmail.com
+
+@gaverri
+
+![](https://media1.tenor.com/m/h_ZU6xFDAgMAAAAC/ezio-auditore-da-firenze-ezio-auditore.gif)
+
+
