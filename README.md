@@ -3,7 +3,7 @@
 Meu nome é Gabriel Verri
 
 - Sou professor de inglês, física, geometria e tecnologia.
-- Estou me desenvolvendo na linguagem do JavaScript.
+- Recentemente estou trabalhando com a linguagem JavaScript.
 - Aqui vou compartilhar os projetos desenvolvidos durante o curso de programação da [Alura](www.alura.com.br).
 
 ### Qualquer coisa, só entrar em contato. Abraços 🤲
